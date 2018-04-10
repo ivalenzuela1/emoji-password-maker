@@ -1,4 +1,4 @@
-# Emoji Password Maker
+# Emoji Password Maker 🙃 👌 🧠 💅
 
 Exercise inspired by [Kamogo (Neal Agarwal)](https://www.kamogo.com)
 
