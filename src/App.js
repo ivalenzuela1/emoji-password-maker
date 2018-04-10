@@ -7,6 +7,7 @@ const App = () => {
     return (
         <div>
             <h1>Hello, world!</h1>
+            <i className="twa twa-dragon-face"></i>
         </div>
     );
 };
