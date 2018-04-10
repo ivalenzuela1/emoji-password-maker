@@ -1,12 +1,6 @@
-# React 16 & Webpack 4 Boilerplate
+# Emoji Password Maker
 
-## Includes
-
-* Webpack
-* Webpack CLI
-* Webpack Dev Server
-* React 16
-* React Router 4
+## Instructions
 
 ## Scripts
 
